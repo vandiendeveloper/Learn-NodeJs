@@ -1,0 +1,2 @@
+Javascript là ngôn ngữ lập trình để sinh ra NodeJs và Express
+  NodeJs là nền tảng để tạo thành framework Express
