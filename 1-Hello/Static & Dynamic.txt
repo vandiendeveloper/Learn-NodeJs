@@ -1,0 +1,2 @@
+  Static web server hoạt động khi người dùng chạy trên locahost và các file được trả về cũng là một file dưới dạng tĩnh
+  Dynamic web server hoạt động khi người dùng yêu cầu đầu vào sau đó thông qua database để web server lấy dữ liệu sau đó trả về cho client
